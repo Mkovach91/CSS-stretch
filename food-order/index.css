@@ -1,0 +1,11 @@
+#header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#food-lists {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
